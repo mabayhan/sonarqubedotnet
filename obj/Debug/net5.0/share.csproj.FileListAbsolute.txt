@@ -1,0 +1,16 @@
+/share/bin/Debug/net5.0/share
+/share/bin/Debug/net5.0/share.deps.json
+/share/bin/Debug/net5.0/share.runtimeconfig.json
+/share/bin/Debug/net5.0/share.runtimeconfig.dev.json
+/share/bin/Debug/net5.0/share.dll
+/share/bin/Debug/net5.0/ref/share.dll
+/share/bin/Debug/net5.0/share.pdb
+/share/obj/Debug/net5.0/share.csproj.AssemblyReference.cache
+/share/obj/Debug/net5.0/share.GeneratedMSBuildEditorConfig.editorconfig
+/share/obj/Debug/net5.0/share.AssemblyInfoInputs.cache
+/share/obj/Debug/net5.0/share.AssemblyInfo.cs
+/share/obj/Debug/net5.0/share.csproj.CoreCompileInputs.cache
+/share/obj/Debug/net5.0/share.dll
+/share/obj/Debug/net5.0/ref/share.dll
+/share/obj/Debug/net5.0/share.pdb
+/share/obj/Debug/net5.0/share.genruntimeconfig.cache

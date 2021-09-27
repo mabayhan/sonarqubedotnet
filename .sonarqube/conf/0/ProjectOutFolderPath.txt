@@ -1,0 +1,1 @@
+/share/.sonarqube/out/0
